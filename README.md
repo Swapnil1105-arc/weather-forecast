@@ -21,8 +21,6 @@ A simple and interactive Weather App that allows users to get real-time weather 
 
 - Project Structure
 
-- Screenshots
-
 - Troubleshooting
 
 - Contributors
@@ -91,11 +89,11 @@ Standard web technologies (HTML5, CSS3, JavaScript)
 No external libraries or frameworks are required.
 
 # 🧩 Project Structure
-weather-app
-├── index.html        # Main HTML structure
-|-
-├── script.js         # JavaScript logic for fetching and displaying weather data
-├── style.css         # Styling for the UI
+weather-app/\
+|
+├── index.html        # Main HTML structure\
+├── script.js         # JavaScript logic for fetching and displaying weather data\
+├── style.css         # Styling for the UI\
 
 # 🖼️ Screenshots
 
